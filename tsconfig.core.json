@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "allowJs": false,
+    "outDir": ".tmp-test",
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["lib/list-engine/types.ts", "lib/list-engine/core.ts", "lib/list-engine/parser.ts"]
+}
